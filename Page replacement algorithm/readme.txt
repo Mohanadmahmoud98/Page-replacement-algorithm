@@ -1,0 +1,7 @@
+Page-replacement algorithm:
+FIFO
+OPTIMAL
+LRU
+SECOND CHANCE
+LFU
+ENHANCED SECOND CHANCE
